@@ -3,9 +3,9 @@
 <h2> Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Configuring a Azure Virtual Machine for osTicket](https://github.com/jamargoochIT/azure-osticket)
   - [osTicket: Prerequisites and Installation](https://github.com/jamargoochIT/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/jamargoochIT/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/jamargoochIT/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Creating and Configuring a Domain Controler and Client within Azure](https://github.com/jamargoochIT/azure-setup)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jamargoochIT/configure-ad)
