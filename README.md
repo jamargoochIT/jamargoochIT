@@ -7,8 +7,9 @@
   - [osTicket: Post-Installation Configuration](https://github.com/jamargoochIT/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jamargoochIT/ticket-lifecycle)
 - <b>Microsoft Azure</b>
+  - [Creating and Configuring A Domain Controler and Client within Azure](https://github.com/jamargoochIT/azure-setup)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jamargoochIT/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jamargoochIT/azure-network-protocols)
+
 
 <h2>Connect with me:</h2>
 
