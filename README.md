@@ -3,13 +3,13 @@
 <h2> Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Creating & Configuring a Azure Virtual Machine for osTicket](https://github.com/jamargoochIT/azure-osticket)
-  - [osTicket: Prerequisites and Installation](https://github.com/jamargoochIT/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/jamargoochIT/post-install-config)
+  - [Creating & Configuring a Azure Virtual Machine for osTicket](https://github.com/jamargoochIT/azure-osticket)
+  - [Prerequisites and Installation](https://github.com/jamargoochIT/osticket-prereqs)
+  - [Post-Installation Configuration](https://github.com/jamargoochIT/post-install-config)
 - <b>Microsoft Azure</b>
-  - [Azure: Creating & Configuring a Domain Controler and Client within Azure](https://github.com/jamargoochIT/azure-setup)
-  - [Azure: Configuring On-premises Active Directory within Azure VMs](https://github.com/jamargoochIT/configure-ad)
-  - [Azure: Configuring Account Lockouts in Group Policy](https://github.com/jamargoochIT/configure-gplockouts)
+  - [Creating & Configuring a Domain Controler and Client within Azure](https://github.com/jamargoochIT/azure-setup)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jamargoochIT/configure-ad)
+  - [Configuring Account Lockouts in Group Policy](https://github.com/jamargoochIT/configure-gplockouts)
 
 
 <h2>Connect with me:</h2>
