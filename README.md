@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/jamargoochIT/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jamargoochIT/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Creating and Configuring A Domain Controler and Client within Azure](https://github.com/jamargoochIT/azure-setup)
+  - [Creating and Configuring a Domain Controler and Client within Azure](https://github.com/jamargoochIT/azure-setup)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jamargoochIT/configure-ad)
 
 
