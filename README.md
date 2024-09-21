@@ -7,7 +7,7 @@
   - [Prerequisites and Installation](https://github.com/jamargoochIT/osticket-prereqs)
   - [Post-Installation Configuration](https://github.com/jamargoochIT/post-install-config)
 - <b>Microsoft Azure</b>
-  - [Creating & Configuring a Domain Controler and Client within Azure](https://github.com/jamargoochIT/azure-setup)
+  - [Creating & Configuring a Domain Controller and Client within Azure](https://github.com/jamargoochIT/azure-setup)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jamargoochIT/configure-ad)
   - [Configuring Account Lockouts in Group Policy](https://github.com/jamargoochIT/configure-gplockouts)
 
